@@ -10,3 +10,11 @@
 - [深拷贝](./src/deepClone.js)
 - [promise](./src/promise.js)
 - [函数柯里化](./src/curry.js)
+
+---
+
+参考：
+
+- [F2E](https://github.com/zhoushaw/F2E/blob/master/requestion/js.md#%E6%89%8B%E5%86%99%E5%87%BD%E6%95%B0)
+- [这些手写代码会了吗？少年](https://juejin.im/post/6856419501777846279)
+- [js 篇连载之第二期 来认真的探讨一下 this 问题，以及 call、apply 等的手写](https://juejin.im/post/6857538942258905102)
